@@ -26,6 +26,7 @@ python3.8 -m scrapy runspider datacvr/spiders/datacrv_spider.py
 
 ## Example
 Информация взята со страницы компании MGHM Limited, дочерней компании MGHM Limited, Англия:
+```
 {
   "company_name": "MGHM Limited filial af MGHM Limited, England",
   "cvr_number": "41542446",
@@ -98,4 +99,4 @@ python3.8 -m scrapy runspider datacvr/spiders/datacrv_spider.py
     }
   }]
 }
-
+```
